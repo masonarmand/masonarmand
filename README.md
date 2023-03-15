@@ -22,4 +22,4 @@ Experimental Game Jams is about discovering completely new types of gameplay. Ea
 
 [Tuxmino](https://github.com/masonarmand/tuxmino)
 
-Tuxmino is a high difficulty falling block puzzle game. The goal of this project is to create a highly modifiable and extensible game. Currently working on adding Lua support for custom user-created game modes.
+Tuxmino is a high difficulty falling block puzzle game. The goal of this project is to create a highly modifiable and extensible game. Currently working on adding Lua support for custom user-created game modes. You can view the progress on the [v1 branch](https://github.com/masonarmand/tuxmino/tree/v1).
