@@ -1,5 +1,5 @@
-## Scarbyte's Bio
-Hello, my name is Mason (I go by scarbyte online). I love programming and creating games.
+## Mason Armand's Bio
+Hello, my name is Mason. I love programming and creating games.
  - View my personal website - https://scarbyte.com
  - View my portfolio website - https://masonarmand.com
 
