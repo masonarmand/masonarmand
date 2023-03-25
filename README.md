@@ -7,7 +7,7 @@
 <summary><img src="icons/pc.png" width="16"> Projects</summary>
 
 &emsp;<img src="icons/gears.png" width="16"> [Experimental Game Jams](https://experimentaljams.com), website where users can upload experimental games.<br>
-&emsp;<img src="icons/app.png" width="16"> [Tuxmino](https://github.com/masonarmand/tuxmino), game reminiscient of old arcade stackers. Gamemodes
+&emsp;<img src="icons/app.png" width="16"> [Tuxmino](https://github.com/masonarmand/tuxmino), game reminiscient of old arcade stackers. Custom gamemodes
   can be created with LUA.<br>
 </details>
 
