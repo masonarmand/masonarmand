@@ -1,14 +1,12 @@
-# Mason Armand's Bio
-Hello, my name is Mason. I love programming and creating games.
- - View my portfolio website - https://masonarmand.com
- - View my personal/hobby website - https://scarbyte.com
- 
-## My Current Projects
+# Mason Armand
+<img src="img/cert.png" width="16">[Visit my portfolio website](https://masonarmand.com)
+<img src="img/internet.png" width="16">[Visit my personal/hobby website](https://scarbyte.com)
+<img src="img/pad.png" width="16">[email](mailto:masonarmand@proton.me)
 
-### [Experimental Game Jams](https://experimentaljams.com)
-
-Experimental Game Jams is about discovering completely new types of gameplay. Each month there is a new theme and users must create their game to match that theme. The rules are that each game must be made by 1 person and within 1 month, and the game must demonstrate a completely new type of gameplay never seen before.
-
-### [Tuxmino](https://github.com/masonarmand/tuxmino)
-
-Tuxmino is a high difficulty falling block puzzle game. The goal of this project is to create a highly modifiable and extensible game. It has LUA support so players can create/share custom game modes without having to recompile the source code.
+<details open>
+<summary><img src="img/pc.png" width="16">Projects</summary>
+- <img src="img/gears.png" width="16">[Experimental Game Jams](https://experimentaljams.com), website where users can upload
+  experimental games.
+- <img src="img/app.png" width="16">[Tuxmino](https://github.com/masonarmand/tuxmino), game reminiscient of arcade stackers. Gamemodes
+  can be created with LUA.
+</details>
