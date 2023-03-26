@@ -14,6 +14,6 @@
 <details open>
 <summary><img src="icons/tweakui.png" width="16"> Experiments</summary>
 
-&emsp;<img src="icons/gears.png" width="16"> [boids2d-rs](https://github.com/masonarmand/boids2d-rs), boids flocking simulation. My project written in rust. <br>
+&emsp;<img src="icons/gears.png" width="16"> [boids2d-rs](https://github.com/masonarmand/boids2d-rs), boids flocking simulation. My first project written in rust. <br>
 &emsp;<img src="icons/gears.png" width="16"> [gupta](https://github.com/masonarmand/gupta), roguelike game with chess based movement.
 </details>
