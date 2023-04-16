@@ -17,5 +17,5 @@
 
 &emsp;<img src="icons/gears.png" width="16"> [boids2d-rs](https://github.com/masonarmand/boids2d-rs), boids flocking simulation. My first project written in rust. <br>
 &emsp;<img src="icons/gears.png" width="16"> [gupta](https://github.com/masonarmand/gupta), roguelike game with chess based movement. <br>
-&emsp;<img src="icons/pc.png" width="16"> [karplus-string-synth](https://github.com/masonarmand/karplus-string-synth), audio playback and waveform visualization of the Karplus Strong algorithm. This project uses my ksalgo library.
+&emsp;<img src="icons/gears.png" width="16"> [karplus-string-synth](https://github.com/masonarmand/karplus-string-synth), audio playback and waveform visualization of the Karplus Strong algorithm. This project uses my ksalgo library.
 </details>
