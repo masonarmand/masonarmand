@@ -9,7 +9,8 @@
 &emsp;<img src="icons/gears.png" width="16"> [Experimental Game Jams](https://experimentaljams.com), website where users can upload experimental games.<br>
 &emsp;<img src="icons/app.png" width="16"> [Tuxmino](https://github.com/masonarmand/tuxmino), game reminiscent of old arcade stackers. Custom gamemodes
   can be created with LUA.<br>
-&emsp;<img src="icons/cmd.png" width="16"> [ksalgo](https://github.com/masonarmand/ksalgo), C library for the Karplus Strong Algorithm.
+&emsp;<img src="icons/cmd.png" width="16"> [ksalgo](https://github.com/masonarmand/ksalgo), C library for the Karplus Strong Algorithm.<br>
+&emsp;<img src="icons/gears.png" width="16"> [txt2web](https://github.com/masonarmand/txt2web), Simple static site generator written in C.
 </details>
 
 <details open>
