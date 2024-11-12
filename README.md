@@ -1,6 +1,5 @@
 # Mason Armand
-<img src="icons/cert.png" width="16"> [Visit my portfolio website](https://masonarmand.com) <br>
-<img src="icons/internet.png" width="16"> [Visit my personal/hobby website](https://scarbyte.com) <br>
+<img src="icons/internet.png" width="16"> [Visit my personal website](https://masonarmand.com) <br>
 <img src="icons/pad.png" width="16"> [Send me an email](mailto:masonarmand@proton.me) <br>
 
 <details open>
